@@ -1,0 +1,53 @@
+html {
+  background: url(img/tech-background.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  width: 600px;
+  margin: auto;
+  margin-top: 25px;
+  padding: 25px, 50px 150px;
+  padding-top: 25px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  /* background-color: white; */
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 2.5px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  margin-top: 50px;
+}
+#html {
+  color: #f15c2a;
+}
+#css {
+  color: #1774bb;
+}
+#java {
+  color: #fcb041;
+}
+.block {
+  text-align: center;
+  width: 600px;
+}
+.internet {
+  margin: auto;
+  width: 100px;
+}
+a {
+  color: navy;
+}
+a:hover {
+  font-weight: 600;
+}
